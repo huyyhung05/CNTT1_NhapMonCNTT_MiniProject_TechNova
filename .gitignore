@@ -1,0 +1,11 @@
+# Quan trong: dat o ROOT de bao ve file .env cung cap
+.env
+.env.*
+!.env.example
+!**/.env.example
+node_modules/
+dist/
+*.log
+__pycache__/
+.DS_Store
+Thumbs.db

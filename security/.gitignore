@@ -1,0 +1,4 @@
+# Ap dung cho thu muc security/ (ROOT .gitignore bao ve toan bo repo)
+.env
+.env.*
+!.env.example
